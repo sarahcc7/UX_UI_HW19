@@ -1,3 +1,5 @@
+/* HW 19 Edits*/
+
 $( document ).ready(function() {
     console.log("JS Working");
     const image = $('#my-work-image')
@@ -10,3 +12,8 @@ $( document ).ready(function() {
         image.removeClass('animate__bounce')
     })
 });
+
+
+
+
+/* HW 19 Edits END*/

@@ -39,6 +39,7 @@
   flex-flow: column nowrap;
   align-items: flex-end;
   padding: 48px;
+  color: #C6D610;
 }
 
 .intro-heading-1 {
@@ -228,3 +229,12 @@ html, body {
 }
 
 }
+
+/* HW 18 Edits END */
+
+
+/* HW 19 Edits */
+
+.round-button {background-color:  #E6E6E6;} /* normal */
+.round-button:hover {background-color:  #C6D610;} /* hover */
+
